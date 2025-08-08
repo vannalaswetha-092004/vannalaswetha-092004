@@ -1,6 +1,5 @@
 ## Hi I am Swetha 👋
 
-- 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning deep learning for computer vision
 - 👯 I’m looking to collaborate on Building innovative and secure web applications
 - 🤔 I’m looking for help with Developing secure web applications with a focus on user-friendly password generation
