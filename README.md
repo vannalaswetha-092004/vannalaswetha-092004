@@ -1,12 +1,59 @@
-## Hi I am Swetha 👋
+# 👋 Hi, I'm Swetha Sri Divya
 
-- 🌱 I’m currently learning deep learning for computer vision
-- 👯 I’m looking to collaborate on Building innovative and secure web applications
-- 🤔 I’m looking for help with Developing secure web applications with a focus on user-friendly password generation
-- 📫 How to reach me: vannalaswetha@gmail.com
-- 😄 Pronouns: she/her
+🎓 Final-year B.Tech student in Computer Science (AI & ML)
+💡 Passionate about Data Science, AI, and building impactful real-world solutions
 
+---
 
-<!--
-**vannalaswetha-092004/vannalaswetha-092004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 🚀 About Me
+
+* 🌱 Currently exploring **Deep Learning for Computer Vision**
+* 🤖 Interested in **AI/ML, Data Analysis, and Business Analytics**
+* 🔐 Working on **secure and user-friendly web applications**
+* 📊 Experienced in building **data-driven projects and predictive models**
+* 🎯 Goal: To leverage AI and data to solve real-world problems
+
+---
+
+## 🛠️ Skills & Technologies
+
+* **Languages:** Python, Java, C
+* **Libraries/Frameworks:** TensorFlow, Scikit-learn, Pandas, NumPy
+* **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+* **Domains:**
+
+  * Machine Learning
+  * Data Analysis
+  * Deep Learning (Beginner)
+  * Cybersecurity Basics
+
+---
+
+## 💼 Projects
+
+* 🔹 **SmartNutriPlan** – AI-based food recognition & nutrition prediction system
+* 🔹 **Crime Prediction System** – Data-driven crime analysis & forecasting
+* 🔹 **Secure Password Generator** – GUI-based tool for strong password creation
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+
+* AI/ML projects
+* Data analysis & visualization projects
+* Secure and scalable web applications
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [vannalaswetha@gmail.com](mailto:vannalaswetha@gmail.com)
+* 💼 LinkedIn: *(Add your LinkedIn link here)*
+
+---
+
+## 🌟 Fun Fact
+
+I enjoy exploring sci-fi concepts and applying them to real-world AI innovations 🚀
