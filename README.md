@@ -7,7 +7,6 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently exploring **Deep Learning for Computer Vision**
 * 🤖 Interested in **AI/ML, Data Analysis, and Business Analytics**
 * 🔐 Working on **secure and user-friendly web applications**
 * 📊 Experienced in building **data-driven projects and predictive models**
@@ -49,8 +48,7 @@ I’m open to collaborating on:
 
 ## 📫 Contact Me
 
-* 📧 Email: [vannalaswetha@gmail.com](mailto:vannalaswetha@gmail.com)
-* 💼 LinkedIn: *(Add your LinkedIn link here)*
+* 📧 Email: vannalaswetha@gmail.com
 
 ---
 
