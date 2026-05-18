@@ -33,6 +33,7 @@
 * 🔹 **SmartNutriPlan** – AI-based food recognition & nutrition prediction system
 * 🔹 **Crime Prediction System** – Data-driven crime analysis & forecasting
 * 🔹 **Secure Password Generator** – GUI-based tool for strong password creation
+* 🔹 **Realtime Revenue and Expense Tracker with Profit Forecasting** – GUI-based tool for showing profit forecast based on the data of expense and revenue for day to day small businesses.
 
 ---
 
